@@ -4,7 +4,8 @@
 
 a=1
 b=2
-x=a+b
+x= addition(a+b)
+
 
 just checking....
 
